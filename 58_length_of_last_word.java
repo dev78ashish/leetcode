@@ -4,6 +4,6 @@ class Solution {
         String words[] = s.split("\\s+");
         int n = words.length;
         String z=words[n-1];
-        return z.length();
+        return z.length(); 
     }
 }
